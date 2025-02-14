@@ -60,7 +60,7 @@
 
         raise {
             bindings = <
-&bt BT_CLR &bt BT_SEL 0     &btn BTN_SEL 1  &trans  &trans  &trans                                 &mkp LCLK       &mkp RCLK       &trans        &trans           &trans  &trans
+&bt BT_CLR &bt BT_SEL 0     &btn BT_SEL 1  &trans  &trans  &trans                                 &mkp LCLK       &mkp RCLK       &trans        &trans           &trans  &trans
 &trans     &rgb_ug RGB_TOG  &trans          &trans  &trans  &trans                                 &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_UP  &mmv MOVE_RIGHT  &trans  &trans
 &trans     &trans           &trans          &trans  &trans  &trans                                 &kp LEFT        &kp DOWN        &kp UP        &kp RIGHT_ARROW  &trans  &trans
 &trans     &trans           &trans          &trans  &trans  &trans  &kp K_MUTE    &rgb_ug RGB_EFF  &trans          &trans          &trans        &trans           &trans  &trans
